@@ -792,14 +792,12 @@ html, body {
 .yb-client-item {
   opacity: 0.6;
   transition: 0.3s;
-  -webkit-filter: grayscale(100%);
-          filter: grayscale(100%);
+  filter: grayscale(100%);
 }
 
 .yb-client-item:hover {
   opacity: 1;
-  -webkit-filter: grayscale(0%);
-          filter: grayscale(0%);
+  filter: grayscale(0%);
 }
 
 .yb-pricing-item .uk-card {
