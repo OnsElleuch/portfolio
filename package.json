@@ -23,6 +23,7 @@
     "gulp-uglify": "^3.0.2"
   },
   "dependencies": {
+    "compress-assets": "^1.0.7",
     "gulp-connect": "^5.7.0",
     "gulp-open": "^3.0.1",
     "jquery": "^3.4.1",
